@@ -3,14 +3,13 @@
 # Welcome to METRADAR📡
 
 ## 🚀 Quick start
-### 📡metradar 主要面向一线气象工作者，提供简单易用的python接口，用于读取、处理和可视化中国天气雷达数据，并兼容国际成熟的雷达工具包如pyart、wradlib、pydda、pysteps等。
-### ✨强烈推荐先从examples目录下的所有notebook入手！
-### ✨由于很多算法功能都是以完整项目形式共享，因此，建议用户将整个代码包从github上下载到本地进行后续开发！
-
-
+### 📡metradar 主要面向一线气象工作者，提供简单易用的python接口，用于读取、处理和可视化中国天气雷达数据，并利用国际成熟的雷达工具包如pyart、wradlib、pydda、pysteps构建了质量控制、降水反演、风场反演、临近预报等工程。
 
 
 <div align="left">
+
+### ✨强烈推荐先从examples目录下的所有notebook入手！
+### ✨由于很多算法功能都是以完整项目形式共享，因此，建议用户将整个代码包从github上下载到本地进行后续开发！
 
 ### 📚主要功能包括
 * 1，雷达数据下载，自动站数据下载，下载功能集成在nmc_met_io工具包中；
@@ -51,4 +50,5 @@ RESOURCES_PATH = /home/wjzhu/metradar/resources
 ```
 
 ### ⚠️注意事项：
-* 资源文件RESOURCES和样例测试数据需要单独下载
+* 资源文件RESOURCES 目录下的stations目录下的文件都是样例文件，不代表真实坐标，使用时，请自行按照同样的格式准备站点文件。
+* 样例测试数据需要单独下载，链接：https://github.com/zhuwenjian/metradar_testdata
