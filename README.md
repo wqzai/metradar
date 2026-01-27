@@ -51,9 +51,9 @@ RESOURCES_PATH = /home/wjzhu/metradar/resources
 
 ### ⚠️注意事项：
 * 资源文件RESOURCES 目录下的stations目录下的文件都是样例文件，不代表真实坐标，使用时，请自行按照同样的格式准备站点文件。
-* 样例测试数据需要单独下载，链接：https://github.com/zhuwenjian/metradar_testdata
+* 样例测试数据、字体、DEM数据、maps等需要单独下载，链接：https://github.com/zhuwenjian/metradar_testdata
 
-## 🚀补充材料：
+## 🚀补充材料（主要服务那些访问Github不稳定的人）：
 ### * 方便国内用户安装和使用的补充材料如下：
 安装前，建议将pip源设置为阿里云的，将conda源设置为清华的，具体详情咨询AI即可。此外，地图文件，测试数据等也可以从下面对应链接获取。
 
@@ -65,8 +65,9 @@ RESOURCES_PATH = /home/wjzhu/metradar/resources
 metradar工具包介绍.pptx
 链接：https://pan.quark.cn/s/0012cb00a686
 
-metradar地图文件.zip
-链接：https://pan.quark.cn/s/28a4f86a9e53
+resources（字体、map等）
+链接：https://pan.quark.cn/s/35f08baab338
+
 
 =================百度网盘链接如下==========
 
@@ -74,9 +75,8 @@ metradar工具包介绍.pptx
 链接：https://pan.baidu.com/s/1Rfzo3zGu23hl4uvWPvsl9g?pwd=5wew 
 提取码：5wew
 
-metradar地图文件.zip
-链接：https://pan.baidu.com/s/1e3tvtGzI4KlZU33bJq0BHg?pwd=5wew 
-提取码：5wew
+resources（字体、map等）
+链接: https://pan.baidu.com/s/159hOPYRg0LeXo49cqlUxnw?pwd=3pje 提取码: 3pje 
 
 样例测试数据metradar_testdata
 链接：https://pan.baidu.com/s/1cYUHGL6Cqk4rK5uZCXrUWg?pwd=5wew 
