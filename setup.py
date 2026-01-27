@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="metradar",
-    version="0.1.8.2",
+    version="0.1.8.3",
     packages=find_packages(),  # 自动发现所有包
 )
 
